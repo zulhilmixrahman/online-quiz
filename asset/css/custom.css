@@ -1,0 +1,26 @@
+.nav-title {
+    color: #ffffff !important;
+    font-size: 35px !important;
+}
+
+.countdown {
+    padding-top: 5px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/** Ajax Loader */
+#ajaxLoader {
+    display: none;
+    position: fixed;
+    background-image: url("../img/loading-square.gif");
+    background-color: #2196f3;
+    opacity: 0.3;
+    background-repeat: no-repeat;
+    background-position: center;
+    left: 0;
+    bottom: 0;
+    right: 0;
+    top: 0;
+}
+/** ./Ajax Loader */

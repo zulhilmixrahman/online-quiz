@@ -1,0 +1,11 @@
+<?php
+/**
+ * @name Config file
+ * @description Set the credentials for the database and make a new PDO connection if the connection fails display the error.
+ */
+/* Set Setting: Please change this parameter follow yourselft setting */
+$dbHost = "127.0.0.1";
+$dbUser = "root";
+$dbPass = "password";
+$dbName = "quiz";
+$logging = true;
